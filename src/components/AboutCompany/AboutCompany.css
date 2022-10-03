@@ -1,0 +1,40 @@
+.about-company {
+    padding: 154px 210px 0 210px;
+}
+.about-company__content{
+    display: flex;
+}
+.about-company__title{
+    font-family: 'Rounded Elegance';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.about-company__container {
+    display: flex;
+    margin: 117px 0 40px 31px;
+}
+.about-company__subtitle{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    max-width: 700px;
+    margin: 0 139px 0 0;
+}
+.about-company__button{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    font-size: 20px;
+    line-height: 150%;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+.about-company__img{
+    padding-left: 384px;
+}

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("./Inter-Medium.woff") format("woff");
+    src: url("./Inter-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: 'Rounded Elegance';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Rounded_Elegance.ttf") format("woff");
+    src: url("./Rounded_Elegance.ttf") format("woff2");
+}
+@font-face {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./RobotoFlex.ttf") format("woff");
+    src: url("./RobotoFlex.ttf") format("woff2");
+}

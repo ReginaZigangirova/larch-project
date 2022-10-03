@@ -1,0 +1,67 @@
+.about-us{
+    background: #F5F5F5;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.about-us__container{
+    padding: 50px 210px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.about-us__block:last-child{
+    padding-top: 74px ;
+}
+.about-us__paragraph{
+    margin: 0 0 50px;
+}
+.about-us__content{
+    display: flex;
+
+}
+.about-us__title{
+    font-family: 'Rounded Elegance';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 57px;
+text-transform: uppercase;
+margin: 0;
+}
+.about-us__row{}
+.about-us__text{
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+max-width: 500px;
+}
+.about-us__text_row {
+    margin: 40px 0 0;
+}
+.about-us__text_case {
+    max-width: 540px;
+    margin: 30px 0 0;
+}
+.about-us__text_column {
+    max-width: 400px;
+    margin: 0 0 30px;
+}
+.about-us__case{
+    padding: 100px 0;
+    line-height: 0;
+}
+.about-us__img_row{
+    width: 500px;
+height: 278px;
+padding: 217px 0 0 101px;
+}
+.about-us__columns{
+    display: flex;
+    padding: 97px 0 0 15px;
+}
+.about-us__column{
+    margin-right: 30px;
+}
+.about-us__column:last-child {
+    margin-right: 0;
+}

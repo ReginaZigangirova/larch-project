@@ -1,0 +1,114 @@
+.connect{
+    /* padding-top: 139px; */
+    padding-bottom: 101px;
+    /* padding-left: 142px; */
+    padding-right: 281px;
+    display: flex;
+    background: #FFFFFF;
+}
+.connect__container{
+    background: #D8E9A8;
+}
+.connect__title{
+    font-family: 'Rounded Elegance';
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    padding: 80px 142px 563px 142px;
+    width: 425px;
+}
+.connect__content{
+    background: #FFFFFF;
+    padding: 80px 0 91px 281px;
+}
+.connect__head{
+    font-family: 'Rounded Elegance';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin: 0;
+    max-height: 64px;
+    padding: 0 43px 56px 81px ;
+}
+.connect__form{
+    
+    
+}
+.connect__input-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-column-gap: 50px
+}
+.connect__input-content{
+    border-bottom: 1px solid #000000;
+}
+.connect__input{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.01em;
+    color: #8D8D8D;
+    border: none;
+    border-bottom: 1px solid #8D8D8D;
+    outline: 0;
+    padding: 11px 0 14px 0;
+}
+.connect__input:nth-child(2) {
+    border-bottom: 1px solid #000000;
+    color: #000000;
+}
+
+.connect__answer{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 140%;
+    letter-spacing: 0.01em;
+    border: none;
+    color: #000000;
+    outline: 0;
+    padding: 11px 0 14px 0;
+}
+
+.connect__input-comment{
+    border: 1px solid #8D8D8D;
+    width: 650px;
+    height: 149px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: 0.01em;
+    color: #8D8D8D;
+    margin-top: 30px;
+}
+.connect__row{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+}
+.connect__button{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    background: #E17D21;
+    border-radius: 5px;
+    border: none;
+    padding: 14px 65px 13px 66px;
+}
+.connect__text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 130%;
+    color: #8D8D8D;
+    margin: 0;
+}

@@ -1,0 +1,39 @@
+.promo{
+    padding: 0 210px 0 210px ;
+}
+.promo__container{
+    display: flex;
+    justify-content: space-between;
+}
+.promo__title{
+    font-family: 'Rounded Elegance';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 92px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.promo__span {
+    color: green;
+}
+.promo__subtitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    max-width: 425px;
+    margin: 0;
+
+}
+.promo__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 15px 0 20px;
+}
+.promo-img{}

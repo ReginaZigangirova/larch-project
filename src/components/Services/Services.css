@@ -1,0 +1,27 @@
+.services{
+    padding: 150px 210px 0 210px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 460px);
+    grid-column-gap: 60px ;
+    grid-row-gap: 70px ;
+}
+.services__title{
+    font-family: 'Rounded Elegance';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.services__card{
+    line-height: 0;
+}
+.services__img{}
+.services__head{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-transform: uppercase;
+    margin: 20px 0 0;
+}
